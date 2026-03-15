@@ -1,0 +1,9 @@
+[project]
+name = "rrd-example"
+version = "0.1.0"
+description = "rrd example"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "rerun-sdk>=0.30.2",
+]
